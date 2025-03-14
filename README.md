@@ -37,5 +37,3 @@ The goal of this project is to develop a **Machine Learning model** that predict
 - Implement **Hyperparameter Tuning** for improved accuracy.
 - Deploy the model as a **Web App using Flask or Streamlit**.
 - Add real-world patient data for better generalization.
-
-⭐ **If you like this project, consider giving it a star on GitHub!** ⭐
